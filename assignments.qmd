@@ -1,0 +1,9 @@
+---
+title: "Assignments"
+---
+
+This page contains assignments for EPPS 6356: Data Visualization.
+
+```{r}
+
+```

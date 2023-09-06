@@ -1,0 +1,15 @@
+---
+title: "About Me"
+---
+
+Hello there! I am currently a graduate student in The University of Texas at Dallas' Applied Cognition & Neuroscience Program, specializing in Human-Computer Interaction. With a background in psychology, I have always been interested in using my knowledge to support those in need. When I first learned about user experience (UX), I immediately fell in love with the field's multidisciplinary nature and evidence-based process.
+
+I am passionate about creating digital services that are valuable and accessible to diverse user bases. I am a continuous learner and am excited to keep developing my skills through new opportunities in the future!
+
+When I'm not working or studying, you can find me experimenting with songs on my keyboard, volunteering with friends, or exploring new worlds through literature.
+
+![](images/PXL_20230304_015536400.MP.JPG){fig-alt="young woman presenting research poster board to student" fig-align="center" width="268"}
+
+```{r}
+
+```

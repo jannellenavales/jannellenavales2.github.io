@@ -1,0 +1,14 @@
+---
+title: "Hi, I'm Jannelle!"
+---
+
+![](images/IMG_9759.jpg){fig-alt="young woman in black shirt" fig-align="center" width="251"}
+
+Welcome to my website! I'm a curious and creative problem solver that seeks to empower people through research and design.
+
+My website is currently a work in progress - I'm currently working on formatting my projects so that they can be accessed individually. In the meantime, you can view my [resume](https://drive.google.com/file/d/1ZujT78aSYE2L2ZATTNqgXtU1iChc604H/view?usp=sharing) and [portfolio](https://bit.ly/44LwuU3).
+
+**Note:** Professors, any class assignments will be published in the Assignments section!
+
+```{r}
+```
